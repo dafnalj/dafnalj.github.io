@@ -30,8 +30,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Neuroethology
-  - 
-  - Information Retrieval
+  - Learning and decision making
+  - Neurotheory
 
 # Education to show in About widget
 education:
@@ -51,7 +51,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 60
         icon: python
         icon_pack: fab
       - name: Data Science
